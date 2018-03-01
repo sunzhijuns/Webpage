@@ -85,9 +85,30 @@ Google:
 		http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/headers/
 		英文：	https://google.github.io/styleguide/cppguide.html#Self_contained_Headers
 	
+cocos 
+	ubuntu安装cocos2dx:
+		https://www.cnblogs.com/moonlightpoet/p/5553499.html
+	cocos2d-x节点（CCPhysicsContact.h)API:
+		http://blog.csdn.net/runaying/article/details/16442881
+	Cocos2d-X权威指南笔记:
+		http://blog.csdn.net/runaying/article/details/14518467
+	cocos2d-X 节点（SpriteBatchNode.h.）API:
+		http://blog.csdn.net/runaying/article/details/13509375
+	
 设计模式：
 	命令模式：	http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/command.html
 
+Sublime:
+	Sublime插件：Markdown篇:
+		https://www.jianshu.com/p/aa30cc25c91b
+Math:
+	Bezier曲线原理及实现代码（c++）:
+		http://blog.csdn.net/cdnight/article/details/48468915
+		Bezier曲线演示：
+			http://myst729.github.io/bezier-curve/
+			https://github.com/myst729?page=2&tab=repositories
+		
+	
 魔方：
 	魔方小站：
 		http://www.rubik.com.cn/alg/?type=alg&alg=(R_U-U-R-U)2_y-(R-U-R)__&scheme=custom&stage=F2L&setup=y-
