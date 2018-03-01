@@ -1,6 +1,95 @@
+免费的编程中文书籍索引:
+	https://github.com/justjavac/free-programming-books-zh_CN#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F
+
+OpenGL:
+	opengl-tutorials github 课程:
+		https://github.com/zilongshanren/opengl-tutorials/blob/master/tut03/zh.md
+	第一课： 新建一个窗口:
+		https://github.com/zilongshanren/opengl-tutorials/blob/master/tut01/zh.md
+	
+	
 数据结构:
 	数据结构网址:  	http://student.zjzk.cn/course_ware/data_structure/web/main.htm
 	桶排序:			http://student.zjzk.cn/course_ware/data_structure/web/paixu/paixu8.6.1.1.htm
 	
+算法：
+	【算法总结】KMP算法及java实现:
+		http://blog.csdn.net/cdnight/article/details/11935387
+	一只探路猫（A星寻路算法介绍）：
+		https://www.cnblogs.com/zhoug2020/p/3468167.html
+	
 git:
 	git 简明概要: 	http://www.runoob.com/manual/git-guide/
+	
+go:
+	go 学习:		http://www.runoob.com/go/go-functions.html
+	Go项目目录管理:	https://studygolang.com/articles/2233
+	sublime text 3 搭建go语言开发:
+					http://blog.csdn.net/zly9923218/article/details/51477853
+					
+lua:
+	简单运行Lua代码:
+					http://blog.csdn.net/jiafu1115/article/details/8957488
+	Lua教程（五）：C/C++操作Lua数组和字符串示例:
+					http://www.jb51.net/article/55479.htm
+	理解 Lua 的那些坑爹特性:
+					http://sw.is-programmer.com/2013/1/3/understand-lua-caveats.36905.html
+					
+Android
+	CMake：CMakeList.txt 文件说明:
+		https://www.zybuluo.com/cxm-2016/note/542643#targetlinklibraries
+	NDK开发OpenGL ES 3.0(五)——一个立方体:
+		https://www.zybuluo.com/cxm-2016/note/548013
+		
+	OrmLiteDemo:
+		https://github.com/open-android/OrmLiteDemo
+	Android 快速开发系列 打造万能的ListView GridView 适配器:
+		http://blog.csdn.net/lmj623565791/article/details/38902805
+	Android文件操作（SD卡、缓存）工具类：
+		http://blog.csdn.net/wangshihui512/article/details/50773778
+	Android文件操作工具类：
+		http://blog.csdn.net/anonymousprogrammer/article/details/68948608
+	base-adapter-helper：
+		https://github.com/JoanZapata/base-adapter-helper
+	Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
+		https://github.com/hongyangAndroid/baseAdapter
+	Android 超高仿微信图片选择器 图片该这么加载:
+		http://blog.csdn.net/lmj623565791/article/details/39943731
+	Adnroid文件存储路径getFilesDir()与getExternalFilesDir的区别:
+		http://blog.csdn.net/losefrank/article/details/53464646
+	
+
+		
+图标：
+	按钮图标下载：
+		http://www.easyicon.net/iconsearch/check/2/
+		
+github:
+	张鸿洋:	https://github.com/hongyangAndroid?tab=repositories
+	子龙山人：
+		https://github.com/zilongshanren?tab=repositories
+	创建与合并分支：
+		https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
+		
+SDL：
+	SDL中文教程：	http://adolfans.github.io/sdltutorialcn/blog/2013/01/25/sdl-2-dot-0-tutorial-index/
+	SDL2源代码分析：
+		http://blog.csdn.net/leixiaohua1020/article/details/40680907
+	SDL2源代码分析3：渲染器（SDL_Renderer）：
+		http://blog.csdn.net/leixiaohua1020/article/details/40723085
+	
+Google:	
+	Google 开源项目风格指南:
+		命名约定：
+			http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/naming/
+		http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/headers/
+		英文：	https://google.github.io/styleguide/cppguide.html#Self_contained_Headers
+	
+设计模式：
+	命令模式：	http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/command.html
+
+魔方：
+	魔方小站：
+		http://www.rubik.com.cn/alg/?type=alg&alg=(R_U-U-R-U)2_y-(R-U-R)__&scheme=custom&stage=F2L&setup=y-
+	
+	
