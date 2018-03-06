@@ -7,17 +7,6 @@ OpenGL:
 	第一课： 新建一个窗口:
 		https://github.com/zilongshanren/opengl-tutorials/blob/master/tut01/zh.md
 	
-	
-数据结构:
-	数据结构网址:  	http://student.zjzk.cn/course_ware/data_structure/web/main.htm
-	桶排序:			http://student.zjzk.cn/course_ware/data_structure/web/paixu/paixu8.6.1.1.htm
-	
-算法：
-	【算法总结】KMP算法及java实现:
-		http://blog.csdn.net/cdnight/article/details/11935387
-	一只探路猫（A星寻路算法介绍）：
-		https://www.cnblogs.com/zhoug2020/p/3468167.html
-	
 git:
 	git 简明概要: 	http://www.runoob.com/manual/git-guide/
 	
@@ -34,30 +23,6 @@ lua:
 					http://www.jb51.net/article/55479.htm
 	理解 Lua 的那些坑爹特性:
 					http://sw.is-programmer.com/2013/1/3/understand-lua-caveats.36905.html
-					
-Android
-	CMake：CMakeList.txt 文件说明:
-		https://www.zybuluo.com/cxm-2016/note/542643#targetlinklibraries
-	NDK开发OpenGL ES 3.0(五)——一个立方体:
-		https://www.zybuluo.com/cxm-2016/note/548013
-		
-	OrmLiteDemo:
-		https://github.com/open-android/OrmLiteDemo
-	Android 快速开发系列 打造万能的ListView GridView 适配器:
-		http://blog.csdn.net/lmj623565791/article/details/38902805
-	Android文件操作（SD卡、缓存）工具类：
-		http://blog.csdn.net/wangshihui512/article/details/50773778
-	Android文件操作工具类：
-		http://blog.csdn.net/anonymousprogrammer/article/details/68948608
-	base-adapter-helper：
-		https://github.com/JoanZapata/base-adapter-helper
-	Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
-		https://github.com/hongyangAndroid/baseAdapter
-	Android 超高仿微信图片选择器 图片该这么加载:
-		http://blog.csdn.net/lmj623565791/article/details/39943731
-	Adnroid文件存储路径getFilesDir()与getExternalFilesDir的区别:
-		http://blog.csdn.net/losefrank/article/details/53464646
-	
 
 		
 图标：
@@ -94,21 +59,25 @@ cocos
 		http://blog.csdn.net/runaying/article/details/14518467
 	cocos2d-X 节点（SpriteBatchNode.h.）API:
 		http://blog.csdn.net/runaying/article/details/13509375
-	
-设计模式：
-	命令模式：	http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/command.html
 
 Sublime:
 	Sublime插件：Markdown篇:
 		https://www.jianshu.com/p/aa30cc25c91b
-Math:
-	Bezier曲线原理及实现代码（c++）:
-		http://blog.csdn.net/cdnight/article/details/48468915
-		Bezier曲线演示：
-			http://myst729.github.io/bezier-curve/
-			https://github.com/myst729?page=2&tab=repositories
-		
+
+linux:
+	GLFW入门学习:
+		http://blog.csdn.net/silangquan/article/details/8095324
 	
+	GLFW编译安装笔记:
+		http://blog.csdn.net/philosophyatmath/article/details/50392317
+	linux执行sh报错：$’\r’: 未找到命令的解决:
+		https://www.cnblogs.com/YatHo/p/6492823.html
+
+python:
+	Python 入门指南(Release:	2.7.13):
+		http://www.runoob.com/manual/pythontutorial/docs/html/
+	
+
 魔方：
 	魔方小站：
 		http://www.rubik.com.cn/alg/?type=alg&alg=(R_U-U-R-U)2_y-(R-U-R)__&scheme=custom&stage=F2L&setup=y-

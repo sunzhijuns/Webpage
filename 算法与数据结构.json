@@ -1,0 +1,23 @@
+{
+	"数据结构": {
+		"数据结构网址": "http://student.zjzk.cn/course_ware/data_structure/web/main.htm",
+		"桶排序": "http://student.zjzk.cn/course_ware/data_structure/web/paixu/paixu8.6.1.1.htm",
+		"外排序": "https://max.book118.com/html/2016/0508/42335053.shtm",
+		"《大话数据结构》第9章 排序 9.9 快速排序（上）": "http://www.cnblogs.com/cj723/archive/2011/04/27/2029993.html"
+	},
+
+	"算法": {
+		"【算法总结】KMP算法及java实现": "http://blog.csdn.net/cdnight/article/details/11935387",
+		"一只探路猫（A星寻路算法介绍）": "https://www.cnblogs.com/zhoug2020/p/3468167.html	"
+	},
+
+	"Math": {
+		"Bezier曲线原理及实现代码（c++）": "http://blog.csdn.net/cdnight/article/details/48468915",
+		"Bezier曲线演示1": "http://myst729.github.io/bezier-curve/",
+		"Bezier曲线演示2": "https://github.com/myst729?page=2&tab=repositories"
+	},
+
+	"设计模式": {
+		"命令模式": "http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/command.html"
+	}
+}

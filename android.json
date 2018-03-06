@@ -1,0 +1,40 @@
+{
+					
+"Android":
+	{
+	"Android SD卡简单的文件读写操作":
+		"http://blog.csdn.net/mad1989/article/details/37568667",
+	"【NDK】Android Studio2.2+使用CMake依赖多个第三方库":
+		"https://www.jianshu.com/p/5f29fd671750",
+	"向您的项目添加 C 和 C++ 代码( Android Studio)":
+		"https://developer.android.google.cn/studio/projects/add-native-code.html?hl=zh-cn#new-project",
+	"Google Samples":
+		"https://github.com/googlesamples",
+	"cmake:用add_subdirectory()添加外部项目文件夹":
+		"http://blog.csdn.net/10km/article/details/51889385",
+	"Google 开源项目风格指南 (中文版)":
+		"http://zh-google-styleguide.readthedocs.io/en/latest/",
+	"CMake：CMakeList.txt 文件说明":
+		"https://www.zybuluo.com/cxm-2016/note/542643#targetlinklibraries",
+	"NDK开发OpenGL ES 3.0(五)——一个立方体":
+		"https://www.zybuluo.com/cxm-2016/note/548013",
+		
+	"OrmLiteDemo":
+		"https://github.com/open-android/OrmLiteDemo",
+	"Android 快速开发系列 打造万能的ListView GridView 适配器":
+		"http://blog.csdn.net/lmj623565791/article/details/38902805",
+	"Android文件操作（SD卡、缓存）工具类":
+		"http://blog.csdn.net/wangshihui512/article/details/50773778",
+	"Android文件操作工具类":
+		"http://blog.csdn.net/anonymousprogrammer/article/details/68948608",
+	"base-adapter-helper":
+		"https://github.com/JoanZapata/base-adapter-helper",
+	"Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。":
+		"https://github.com/hongyangAndroid/baseAdapter",
+	"Android 超高仿微信图片选择器 图片该这么加载":
+		"http://blog.csdn.net/lmj623565791/article/details/39943731",
+	"Adnroid文件存储路径getFilesDir()与getExternalFilesDir的区别":
+		"http://blog.csdn.net/losefrank/article/details/53464646"
+	}
+	
+}	
