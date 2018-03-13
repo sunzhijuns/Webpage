@@ -29,13 +29,15 @@ lua:
 	按钮图标下载：
 		http://www.easyicon.net/iconsearch/check/2/
 		
-github:
-	张鸿洋:	https://github.com/hongyangAndroid?tab=repositories
-	子龙山人：
-		https://github.com/zilongshanren?tab=repositories
-	创建与合并分支：
-		https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
-		
+"github":
+{
+	"Cocos2d-JS 开发之旅":	"https://github.com/kenkozheng/cocos2d-js",
+	"张鸿洋":	"https://github.com/hongyangAndroid?tab=repositories",
+	"子龙山人":
+		"https://github.com/zilongshanren?tab=repositories",
+	"创建与合并分支":
+		"https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000"
+},	
 SDL：
 	SDL中文教程：	http://adolfans.github.io/sdltutorialcn/blog/2013/01/25/sdl-2-dot-0-tutorial-index/
 	SDL2源代码分析：

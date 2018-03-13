@@ -3,6 +3,10 @@
 		"数据结构网址": "http://student.zjzk.cn/course_ware/data_structure/web/main.htm",
 		"桶排序": "http://student.zjzk.cn/course_ware/data_structure/web/paixu/paixu8.6.1.1.htm",
 		"外排序": "https://max.book118.com/html/2016/0508/42335053.shtm",
+		"快速排序的优化 概述": "http://blog.sina.com.cn/s/blog_5a3744350100jnec.html",
+		"三种快排及四种优化方式":"http://blog.csdn.net/hacker00011000/article/details/52176100",
+		"《大话数据结构》第9章 排序 9.9 快速排序（上）":"http://www.cnblogs.com/cj723/archive/2011/04/27/2029993.html",
+		"《大话数据结构》相关主题":"http://www.cnblogs.com/cj723/archive/2011/02/06/1949498.html",
 		"《大话数据结构》第9章 排序 9.9 快速排序（上）": "http://www.cnblogs.com/cj723/archive/2011/04/27/2029993.html"
 	},
 
@@ -19,5 +23,15 @@
 
 	"设计模式": {
 		"命令模式": "http://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/command.html"
+	},
+	
+	"cplus":{
+		"typedef 的用法，typedef写在类里面的作用":"http://blog.csdn.net/dalleny/article/details/39016201",
+		"C++11的constexpr关键字":"https://www.cnblogs.com/fushi/p/7792257.html",
+		"c++11 里面的 noexcept":"https://www.jianshu.com/p/ddc15ad55688",
+		"关于#pragma push_macro(\"new\")":"http://blog.csdn.net/ixsea/article/details/7976627",
+		"c++函数模板声明与定义相分离":"https://www.cnblogs.com/tonychen-tobeTopCoder/p/5199655.html",
+		"C++虚基类的内存布局（上）":"http://blog.csdn.net/hacker00011000/article/details/51418892"
+	
 	}
 }
