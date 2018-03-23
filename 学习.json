@@ -1,11 +1,5 @@
 免费的编程中文书籍索引:
 	https://github.com/justjavac/free-programming-books-zh_CN#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F
-
-OpenGL:
-	opengl-tutorials github 课程:
-		https://github.com/zilongshanren/opengl-tutorials/blob/master/tut03/zh.md
-	第一课： 新建一个窗口:
-		https://github.com/zilongshanren/opengl-tutorials/blob/master/tut01/zh.md
 	
 git:
 	git 简明概要: 	http://www.runoob.com/manual/git-guide/
@@ -52,15 +46,6 @@ Google:
 		http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/headers/
 		英文：	https://google.github.io/styleguide/cppguide.html#Self_contained_Headers
 	
-cocos 
-	ubuntu安装cocos2dx:
-		https://www.cnblogs.com/moonlightpoet/p/5553499.html
-	cocos2d-x节点（CCPhysicsContact.h)API:
-		http://blog.csdn.net/runaying/article/details/16442881
-	Cocos2d-X权威指南笔记:
-		http://blog.csdn.net/runaying/article/details/14518467
-	cocos2d-X 节点（SpriteBatchNode.h.）API:
-		http://blog.csdn.net/runaying/article/details/13509375
 
 Sublime:
 	Sublime插件：Markdown篇:

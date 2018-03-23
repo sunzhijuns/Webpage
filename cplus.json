@@ -1,0 +1,9 @@
+	"cplus":{
+		"typedef 的用法，typedef写在类里面的作用":"http://blog.csdn.net/dalleny/article/details/39016201",
+		"C++11的constexpr关键字":"https://www.cnblogs.com/fushi/p/7792257.html",
+		"c++11 里面的 noexcept":"https://www.jianshu.com/p/ddc15ad55688",
+		"关于#pragma push_macro(\"new\")":"http://blog.csdn.net/ixsea/article/details/7976627",
+		"c++函数模板声明与定义相分离":"https://www.cnblogs.com/tonychen-tobeTopCoder/p/5199655.html",
+		"C++虚基类的内存布局（上）":"http://blog.csdn.net/hacker00011000/article/details/51418892"
+	
+	}
